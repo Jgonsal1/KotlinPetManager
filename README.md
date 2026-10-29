@@ -1,7 +1,7 @@
-# KotlinPet Manager 🐾
+                  # KotlinPet Manager 🐾
 
-**Estudiante:** JOAN SEBASTIAN GONZALEZ CHAVES 
-**Código:** 1085897156
+**Estudiante:** Joan Sebastian Gonzalez Chaves
+**Código:** TU CÓDIGO
 **Asignatura:** Desarrollo de Aplicativos Móviles (EE053)
 
 ## Descripción
